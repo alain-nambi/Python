@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 31, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 01, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [“Why Do You Code?” - A Surprisingly Hard Question](https://dev.to/sylwia-lask/why-do-you-code-a-surprisingly-hard-question-4ak4)
-- [My 2025 Year in Review](https://dev.to/nickytonline/my-2025-year-in-review-3nom)
-- [The 2026 Software Developer Roadmap: From Rejections to a Dream Tech Job](https://dev.to/finalroundai/the-2026-software-developer-roadmap-from-rejections-to-a-dream-tech-job-5bbn)
-- [I Built a Form Backend in a Weekend Because Paying $20/Month for Contact Forms is Stupid](https://dev.to/varshithvhegde/i-built-a-form-backend-in-a-weekend-because-paying-20month-for-contact-forms-is-stupid-1o34)
-- [The Hidden Cost of “Just Add a Contact Form”](https://dev.to/joe_seabrook_0f1e8fc0b720/the-hidden-cost-of-just-add-a-contact-form-246d)
+- [CloudSweeper: Cutting Cloud Waste with an AI FinOps Agent](https://dev.to/qlooptech/cloudsweeper-cutting-cloud-waste-with-an-ai-finops-agent-580l)
+- [Ending the year by reaching out](https://dev.to/vulcanwm/ending-the-year-by-reaching-out-5f3g)
+- [My Predictions for MCP and AI-Assisted Coding in 2026](https://dev.to/blackgirlbytes/my-predictions-for-mcp-and-ai-assisted-coding-in-2026-16bm)
+- [Rebuilding an Old Website Using Kiro (and What Went Wrong)](https://dev.to/rizasaputra/rebuilding-an-old-website-using-kiro-and-what-went-wrong-3p92)
+- [Year in Review - 2025 Edition](https://dev.to/eevajonnapanula/year-in-review-2025-edition-4g7k)
 <!-- END_TRENDING -->
 
 ---
