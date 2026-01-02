@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 01, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 02, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [CloudSweeper: Cutting Cloud Waste with an AI FinOps Agent](https://dev.to/qlooptech/cloudsweeper-cutting-cloud-waste-with-an-ai-finops-agent-580l)
-- [Ending the year by reaching out](https://dev.to/vulcanwm/ending-the-year-by-reaching-out-5f3g)
-- [My Predictions for MCP and AI-Assisted Coding in 2026](https://dev.to/blackgirlbytes/my-predictions-for-mcp-and-ai-assisted-coding-in-2026-16bm)
-- [Rebuilding an Old Website Using Kiro (and What Went Wrong)](https://dev.to/rizasaputra/rebuilding-an-old-website-using-kiro-and-what-went-wrong-3p92)
-- [Year in Review - 2025 Edition](https://dev.to/eevajonnapanula/year-in-review-2025-edition-4g7k)
+- [Join the New Year, New You Portfolio Challenge: $3,000 in Prizes + Feedback from Google AI Team (For Winners and Runner Ups!)](https://dev.to/devteam/join-the-new-year-new-you-portfolio-challenge-3000-in-prizes-feedback-from-google-ai-team-4e7g)
+- [How Governance and Compliance Saves The World... lolwut?](https://dev.to/linkbenjamin/how-governance-and-compliance-saves-the-world-lolwut-5him)
+- [My 2026 Job hunting list](https://dev.to/cypriantinasheaarons/starting-2026-strong-a-job-hunters-resource-guide-3dbb)
+- [My summary of 2025 as an IAM consultant and non-web developer](https://dev.to/thomasbnt/my-summary-of-2025-as-an-iam-consultant-and-non-web-developer-58kc)
+- [Raku 2025 Review](https://dev.to/lizmat/raku-2025-review-4m0l)
 <!-- END_TRENDING -->
 
 ---
