@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Feb 05, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Feb 06, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Moltbook Is Not an AI Society](https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d)
-- [Why do you write?](https://dev.to/itsugo/why-do-you-write-5bkf)
-- [Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems](https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi)
-- [An Al-go-llama Adventure](https://dev.to/annavi11arrea1/an-al-go-llama-adventure-4051)
-- [I Watched an Anime and Built a VS Code Theme Bundle Inspired by 17th-Century Japanese Art](https://dev.to/theonemohitsharma/i-watched-an-anime-and-built-a-vs-code-theme-bundle-inspired-by-17th-century-japanese-art-h5k)
+- [The Junior Developer is Extinct (And we are creating a disaster)](https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2)
+- [Got Gemini CLI questions? The Google team will answer DEV's questions in their new livestream series!](https://dev.to/devteam/got-gemini-cli-questions-the-google-team-will-answer-devs-questions-in-their-new-livestream-5b7j)
+- [Video Understanding with Gemini 3.0 Flash for Robotics](https://dev.to/googleai/video-understanding-with-gemini-30-flash-for-robotics-5896)
+- [Fighting with json - a war story](https://dev.to/kimkulling/fighting-with-json-a-war-story-41dn)
+- [Dunning-Kruger Effect and Imposter Syndrome: Developer's Hidden Caveat that is Rarely Spoken Off.](https://dev.to/francistrdev/dunning-kruger-effect-and-imposter-syndrome-developers-hidden-caveat-that-is-rarely-spoken-off-41jg)
 <!-- END_TRENDING -->
 
 ---
