@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Feb 06, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Feb 07, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [The Junior Developer is Extinct (And we are creating a disaster)](https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2)
-- [Got Gemini CLI questions? The Google team will answer DEV's questions in their new livestream series!](https://dev.to/devteam/got-gemini-cli-questions-the-google-team-will-answer-devs-questions-in-their-new-livestream-5b7j)
-- [Video Understanding with Gemini 3.0 Flash for Robotics](https://dev.to/googleai/video-understanding-with-gemini-30-flash-for-robotics-5896)
-- [Fighting with json - a war story](https://dev.to/kimkulling/fighting-with-json-a-war-story-41dn)
-- [Dunning-Kruger Effect and Imposter Syndrome: Developer's Hidden Caveat that is Rarely Spoken Off.](https://dev.to/francistrdev/dunning-kruger-effect-and-imposter-syndrome-developers-hidden-caveat-that-is-rarely-spoken-off-41jg)
+- [Gaming Beat Me, Development Won't](https://dev.to/richardpascoe/gaming-beat-me-development-wont-3d5b)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5am7)
+- [Agent Factory Recap: Cracking Open an Open Model](https://dev.to/googleai/agent-factory-recap-cracking-open-an-open-model-42e6)
+- [$100 OFF Google Cloud Next for the Community! Let's meet up?](https://dev.to/devteam/100-off-google-cloud-next-for-the-community-lets-meet-up-3mbo)
+- [Welcome to The Foundation: Preserving Developer Knowledge in Public](https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842)
 <!-- END_TRENDING -->
 
 ---
