@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Apr 28, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Apr 29, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl)
-- [Great Little Software: psikat](https://dev.to/valeriavg/great-little-software-psykat-1bil)
-- [What are your goals for the week? #176](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-176-2e0g)
-- [Run OpenClaw Locally on Windows Using Windows Sandbox for Secure Isolation](https://dev.to/gramli/run-openclaw-locally-on-windows-using-windows-sandbox-for-secure-isolation-411b)
-- [I built a journaling app where the AI refuses to talk on Sundays. Day 8/9 of 30.](https://dev.to/vineetnegi0101/i-built-a-journaling-app-where-the-ai-refuses-to-talk-on-sundays-day-89-of-30-2ohn)
+- [How I used Gemini CLI to orchestrate a complex RAG migration](https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga)
+- [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo)
+- [My Incredible Google Cloud Next 26 Experience as a GDE](https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo)
+- [Weekly Dev Log 2026-W03](https://dev.to/umitomo-lab/weekly-dev-log-2026-w03-30a6)
+- [🗓️ Monthly Dev Report: April 2026](https://dev.to/francistrdev/monthly-dev-report-april-2026-nak)
 <!-- END_TRENDING -->
 
 ---
