@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 16, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 17, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-110l)
-- [Building "Sweets Vault" - a multimodal Gemini Agent with physical hardware integration](https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh)
-- [You don't 3D print a house. You print your tools.](https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00)
-- [AI slop is everywhere. Here's what I keep coming back to.](https://dev.to/marvsonhelbs/ai-slop-is-everywhere-heres-what-i-keep-coming-back-to-1i42)
-- [Day 100 of #100DaysOfCode — What I Built, What I Learned, and What's Next](https://dev.to/m_saad_ahmad/day-100-of-100daysofcode-what-i-built-what-i-learned-and-whats-next-2007)
+- [Chat to build and schedule your own personal Hacker News email digest! 🎉](https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4)
+- [I Gave Hermes Agent 5 Impossible Tasks](https://dev.to/syedahmershah/i-gave-hermes-agent-5-impossible-tasks-1k16)
+- [I Ran Hermes Agent on the Same Task for 7 Days. The Skill File on Day 7 Looked Nothing Like Day 1.](https://dev.to/sreejit_/i-ran-hermes-agent-on-the-same-task-for-7-days-the-skill-file-on-day-7-looked-nothing-like-day-1-2oa8)
+- [I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.](https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18)
+- [Building a Ride Analysis Web App with Antigravity and the Strava API](https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g)
 <!-- END_TRENDING -->
 
 ---
