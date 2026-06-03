@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 01, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 03, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Lazy Loading Wasn't Enough: How I Cut Load Time from 15s to 1.1s](https://dev.to/yoskutik/lazy-loading-wasnt-enough-how-i-cut-load-time-from-15s-to-11s-4e7g)
-- [I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB](https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18)
-- [peektea: brewing a terminal file browser with Bubble Tea](https://dev.to/lovestaco/peektea-brewing-a-terminal-file-browser-with-bubble-tea-4jg1)
-- [The 1978 Paper Behind Go’s Concurrency Model](https://dev.to/amirsefati/the-1978-paper-behind-gos-concurrency-model-4n55)
-- [Claude vs Gemini Across 4 Security Domains: A Dead Heat — and the Hardening 63% of AI Code Skips](https://dev.to/ofri-peretz/claude-vs-gemini-across-4-security-domains-a-dead-heat-and-the-hardening-63-of-ai-code-skips-mpp)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k)
+- [Learning Lessons from Gaming](https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm)
+- [How we turned the Replay keynote surprise into an open-source embedded playground](https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm)
+- [I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life](https://dev.to/gramli/i-used-my-last-7-of-copilot-tokens-to-bring-a-2014-winforms-game-back-to-life-30mo)
+- [I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me](https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60)
 <!-- END_TRENDING -->
 
 ---
