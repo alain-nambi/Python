@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 06, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 07, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hackathon](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4)
-- [IssueWatch — Never Miss a GitHub Issue That Matters to You](https://dev.to/bikidev/issuewatch-never-miss-a-github-issue-that-matters-to-you-2k7)
-- [Magnificent Humanity, Building Cities, and a Special Announcement!](https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf)
-- [AI Won't Replace Humans — It'll Just Make Us Pickier](https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij)
-- [From Hackathon Wreckage to Production-Ready: How I Rebuilt My Kubernetes Attack Path Visualiser with GitHub Copilot](https://dev.to/saptarshisarkar/from-hackathon-wreckage-to-production-ready-how-i-rebuilt-my-kubernetes-attack-path-visualiser-lgo)
+- [peektea brews on WSL 👀🍵 (and installs in one line)](https://dev.to/lovestaco/peektea-brews-on-wsl-and-installs-in-one-line-34ef)
+- [I got tired of waiting for deploys, so I built a local Lambda runner](https://dev.to/math-krish/i-got-tired-of-waiting-for-deploys-so-i-built-a-local-lambda-runner-4ghk)
+- [The Last Capacity Planning Sheet You'll Ever Need](https://dev.to/nbouvrette/the-last-capacity-planning-sheet-youll-ever-need-l52)
+- [Reviving a 2010 Project When the Code Is Broken: A 15-Year Tech Time Capsule with Svelte, Supabase, Vercel](https://dev.to/abigail_armijo/reviving-a-2010-project-when-the-code-is-broken-a-15-year-tech-time-capsule-with-svelte-supabase-39a4)
+- [I tested whether a code health score actually predicts bugs. Here's the benchmark](https://dev.to/raghav_builds/i-tested-whether-a-code-health-score-actually-predicts-bugs-heres-the-benchmark-10dl)
 <!-- END_TRENDING -->
 
 ---
