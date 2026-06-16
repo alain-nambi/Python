@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 15, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 16, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [How to give Claude (or Cursor) access to your Rails app's activity logs](https://dev.to/dezsirazvan/how-to-give-claude-or-cursor-access-to-your-rails-apps-activity-logs-38m3)
-- [Building in public, week 13: the debt week nobody posts about](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-13-the-debt-week-nobody-posts-about-2j4a)
-- [How to enjoy programming in a world of AI](https://dev.to/gtanyware/how-to-enjoy-programming-in-a-world-of-ai-5b4e)
-- [I gave 8 AI agents an island and watched a society emerge — wars, gossip, grudges, and peace](https://dev.to/dhrupo/i-gave-8-ai-agents-an-island-and-watched-a-society-emerge-wars-gossip-grudges-and-peace-2edj)
-- [I Built a Django-Inspired Web Framework in Rust — Here's What I Learned](https://dev.to/seballiot/i-built-a-django-inspired-web-framework-in-rust-heres-what-i-learned-5bbf)
+- [Turning Gemma 4 into an Old Korean Translator](https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop)
+- [Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow](https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf)
+- [Building a Chrome Extension to Make AI Use More Intentional](https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0)
+- [Has Sloan Flagged Your Article Lately?](https://dev.to/dannwaneri/has-sloan-flagged-your-article-lately-1gmh)
+- [What are your goals for the week? #183](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-183-2hp3)
 <!-- END_TRENDING -->
 
 ---
