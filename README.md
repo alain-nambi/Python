@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 19, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 20, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk)
-- [Congrats to the Gemma 4 Challenge Winners!](https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc)
-- [Congrats to the Hermes Agent Challenge Winners!](https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0)
-- [Tower Before Dusk: I Built a Puzzle Game for Humans and AI](https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao)
-- [Building an agentic PR reviewer with Antigravity SDK](https://dev.to/googleai/building-an-agentic-pr-reviewer-with-antigravity-sdk-3b0i)
+- [Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK](https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f)
+- [Internmaxxing vs. Old Man Shakes Fist at Cloud](https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd)
+- [AI summaries need receipts: how I built evidence-bound reports from comments](https://dev.to/woshiliyana/ai-summaries-need-receipts-how-i-built-evidence-bound-reports-from-comments-1c29)
+- [What Does the Windows REFRESH button really do?](https://dev.to/lovestaco/what-does-the-windows-refresh-button-really-do-4kh)
+- [AI makes writing code easier. It doesn't make engineering easier.](https://dev.to/dimitrisk_cyclopt/ai-makes-writing-code-easier-it-doesnt-make-engineering-easier-120)
 <!-- END_TRENDING -->
 
 ---
