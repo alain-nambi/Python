@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 27, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 28, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Never forget to enter the Stern Grove lottery again!](https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4na1)
-- [Dev Opportunity Radar #5: A Fully Funded Trip to AWS re:Invent, Google Cloud Career Launchpad, and a $1,000 Award](https://dev.to/devengers/dev-opportunity-radar-5-a-fully-funded-trip-to-aws-reinvent-google-cloud-career-launchpad-and-3p6e)
-- [Functional doesn't mean correct. That's the biggest risk with AI-generated code.](https://dev.to/cyclopt_dimitrisk/functional-doesnt-mean-correct-thats-the-biggest-risk-with-ai-generated-code-29dh)
-- [I Almost Didn't Learn Programming Because I Was Bad at Math](https://dev.to/technogamerz/i-almost-didnt-learn-programming-because-i-was-bad-at-math-f16)
+- [Engineering a Brainrot art installation on an Orange Pi Zero 🍊](https://dev.to/googleai/engineering-a-brainrot-art-installation-on-an-orange-pi-zero-4gmk)
+- [I Built a Serverless VPN on Lambda MicroVMs — 12 Builds, 5 Dead Ends, 1 Working Architecture](https://dev.to/aws-heroes/i-built-a-serverless-vpn-on-lambda-microvms-12-builds-5-dead-ends-1-working-architecture-5ged)
+- [How To Learn Go Fast: A Practical Roadmap For Senior Backend Developers](https://dev.to/nazar_boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5)
+- [AI Didn't Invent Slop. It Only Made It Infinite.](https://dev.to/copyleftdev/ai-didnt-invent-slop-it-only-made-it-infinite-21o4)
+- [What I Learned About PDAs in a Week of Building on Solana](https://dev.to/lymah/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n51)
 <!-- END_TRENDING -->
 
 ---
