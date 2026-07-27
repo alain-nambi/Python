@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 26, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 27, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [The Crash That Only Happened Sometimes — A SwiftUI Bug](https://dev.to/gamya_m/the-crash-that-only-happened-sometimes-a-swiftui-bug-1kk5)
-- [I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning How to Track a Packet with pwru](https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937)
-- [🐈‍⬛Check Out Catbot's New Leg!](https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg)
-- [389 Tests Passed. NIST Still Caught the Bug.](https://dev.to/copyleftdev/389-tests-passed-nist-still-caught-the-bug-37jh)
-- [I got tired of uploading my HEIC photos to random servers, so I built a WASM-powered client-side converter](https://dev.to/alex_poiny/i-got-tired-of-uploading-my-heic-photos-to-random-servers-so-i-built-a-wasm-powered-client-side-kib)
+- [Como eu venci o medo da transição de carreira](https://dev.to/he4rt/como-eu-venci-o-medo-da-transicao-de-carreira-4b3c)
+- [18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems](https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0)
+- [Your JSON Array Was Streaming All Along](https://dev.to/ssukhpinder/your-json-array-was-streaming-all-along-162j)
+- [No backend, no database, no network calls. I still found 3 security holes.](https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5)
+- [PWAs Cache Resources. Spirit Installs an Application.](https://dev.to/edmundsparrow/pwas-cache-resources-spirit-installs-an-application-4hmf)
 <!-- END_TRENDING -->
 
 ---
