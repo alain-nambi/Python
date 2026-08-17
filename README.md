@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 16, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 17, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [PawBot - An AI Desktop Puppy That Eats Your Files 🐾](https://dev.to/varshithvhegde/pawbot-an-ai-desktop-puppy-that-eats-your-files-301a)
-- [Spicing Up the Web: Building "Angaar", an Immersive Indian Comfort Food Experience](https://dev.to/dj29/spicing-up-the-web-building-angaar-an-immersive-indian-comfort-food-experience-38go)
-- [The "AI" Badge Doesn't Measure What You Think It Does](https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9)
-- [Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13](https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7)
-- [Turning Ayurveda’s Six Rasas Into CSS Art](https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6)
+- [One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution](https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4)
+- [Paw & Order: upload your dog, and defend them against evidence generated from their own photo](https://dev.to/arjen_/paw-order-upload-your-dog-and-defend-them-against-evidence-generated-from-their-own-photo-of7)
+- [Kitchen-Sune: A Community Cookbook](https://dev.to/jenlooper/kitchen-sune-a-community-cookbook-5fea)
+- [I Can Finally Delete My max-height: 9999px Animation Hack](https://dev.to/parsajiravand/i-can-finally-delete-my-max-height-9999px-animation-hack-1p8o)
+- [Claude Impact Lab LA: Community Changed the Code](https://dev.to/earlgreyhot1701d/claude-impact-lab-la-community-changed-the-code-1mg2)
 <!-- END_TRENDING -->
 
 ---
