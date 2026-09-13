@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 12, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 13, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Dev Opportunity Radar #16: $15K AI Agent Hackathon, AI Education Fellowship, and AWS Student Rewards](https://dev.to/devengers/dev-opportunity-radar-16-15k-ai-agent-hackathon-ai-education-fellowship-and-aws-student-rewards-4l2e)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5amk)
-- [FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x](https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj)
-- [The Symmetry of State: Why Flutter Deserves context.value and context.state](https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250)
-- [I Wrote 238 Specs and Never Read One Again](https://dev.to/alfredoperez/i-wrote-238-specs-and-never-read-one-again-5705)
+- [Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom](https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m)
+- [I Optimized My Bump Version Tool and Made It 1,000,000x Faster Than Its Python Counterparts.](https://dev.to/wiseai/i-optimized-my-bump-version-tool-and-made-it-1000000x-faster-than-its-python-counterparts-2i83)
+- [Docker Bake in Practice — Part 1: From Bash Scripts to Declarative Builds](https://dev.to/gde/docker-bake-in-practice-part-1-from-bash-scripts-to-declarative-builds-3pak)
+- [I'm 12. This morning I fought two hosting providers. My app survived both.](https://dev.to/koda2026/im-12-this-morning-i-fought-two-hosting-providers-my-app-survived-both-5bo6)
+- [I just did something my AI agents couldn't](https://dev.to/effessdev/i-just-did-something-my-ai-agents-couldnt-pmi)
 <!-- END_TRENDING -->
 
 ---
