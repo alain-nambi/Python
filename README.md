@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 25, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 26, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [The Third Cup: After Everything Has a Name](https://dev.to/thethirdcup/the-third-cup-after-everything-has-a-name-2b14)
-- [Why Your Android App Drops Frames: The Jetpack Compose Architecture Guide That Fixes Recomposition Forever](https://dev.to/smtahosin/why-your-android-app-drops-frames-the-jetpack-compose-architecture-guide-that-fixes-recomposition-3oh3)
-- [Why Your AI Release Notes Hallucinate: The "Why vs What" Problem in Git History](https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0)
-- [I Let Claude Code Create My AWS Account](https://dev.to/aws/i-let-claude-code-create-my-aws-account-12gb)
-- [A Year of Hacking: a Cloudinary Hackathon Retrospective](https://dev.to/cloudinary/a-year-of-hacking-a-cloudinary-hackathon-retrospective-3odm)
+- [The Price You Pay for Passion](https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l)
+- [The mental toll of working in tech](https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k)
+- [I Built My First Multi-Agent System on AWS, and It Was Easier Than I Expected](https://dev.to/hemapriya_kanagala/i-built-my-first-multi-agent-system-on-aws-and-it-was-easier-than-i-expected-58c2)
+- [Home Office Nightmare](https://dev.to/thethirdcup/home-office-nightmare-2ja0)
+- [The Third Cup: You Don't Have to Fly That High](https://dev.to/thethirdcup/the-third-cup-you-dont-have-to-fly-that-high-3ehd)
 <!-- END_TRENDING -->
 
 ---
