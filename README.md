@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 26, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 27, 2026<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [The Price You Pay for Passion](https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l)
-- [The mental toll of working in tech](https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k)
-- [I Built My First Multi-Agent System on AWS, and It Was Easier Than I Expected](https://dev.to/hemapriya_kanagala/i-built-my-first-multi-agent-system-on-aws-and-it-was-easier-than-i-expected-58c2)
-- [Home Office Nightmare](https://dev.to/thethirdcup/home-office-nightmare-2ja0)
-- [The Third Cup: You Don't Have to Fly That High](https://dev.to/thethirdcup/the-third-cup-you-dont-have-to-fly-that-high-3ehd)
+- [Nostalgia and the AI Productivity Paradox](https://dev.to/gramli/nostalgia-and-the-ai-productivity-paradox-4f33)
+- [I Built AI Test Automation. Today, I Went Back to Manual Testing.](https://dev.to/thethirdcup/i-built-ai-test-automation-today-i-went-back-to-manual-testing-mlh)
+- [On reviewing AI-generated code](https://dev.to/nfrankel/on-reviewing-ai-generated-code-3olj)
+- [From a feed full of Fable 5.2 demos to a 20-episode Indian epic: how I built "The Eighteen Days"](https://dev.to/amananandrai/from-a-feed-full-of-fable-52-demos-to-a-20-episode-indian-epic-how-i-built-the-eighteen-days-14mm)
+- [Your Second Brain Is Just A Digital Hoarding Pile (And How To Fix It)](https://dev.to/johnnylemonny/your-second-brain-is-just-a-digital-hoarding-pile-and-how-to-fix-it-3n1o)
 <!-- END_TRENDING -->
 
 ---
